@@ -52,3 +52,9 @@ docs/_build/html/_sources/sheets.rst.txt
 docs/_build/html/_sources/fpp.rst.txt
 docs/_build/doctrees/utils.doctree
 docs/_build/doctrees/sheets.doctree
+/statVenv
+/.ipynb_checkpoints
+*.ipynb
+/statwrap/.ipynb_checkpoints
+/statwrap/__pycache__
+/tests/.ipynb_checkpoints
